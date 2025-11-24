@@ -15,7 +15,4 @@ Sidebar navigation (Dashboard, Students, Teachers, Subjects, Settings)
 
 Responsive design for desktop and mobile
 
-#Demo
 
-Check out the live demo: Student Dashboard
-![Uploading Screenshot (286).png…]()
